@@ -1,0 +1,15 @@
+{
+  "name": "request-header-api",
+  "version": "1.0.0",
+  "description": "Request Header Parser API for FreeCodeCamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "David Walker",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
